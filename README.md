@@ -8,6 +8,12 @@ My name is Priyam Seth. I am a full stack Developer.
 
 ---
 
+### :writing_hand: Blog Posts :
+- [My GSoC Experience with Zulip as a student](https://gist.github.com/Signior-X/db8370e9b943ea3b26e16405e0d60015)
+
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -34,12 +40,6 @@ My name is Priyam Seth. I am a full stack Developer.
 ![Priyam's github stats](https://github-readme-stats.vercel.app/api?username=Signior-X)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Signior-X&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### :writing_hand: Blog Posts :
-- [My GSoC Experience with Zulip as a student](https://gist.github.com/Signior-X/db8370e9b943ea3b26e16405e0d60015)
-
 
 
 
