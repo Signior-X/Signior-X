@@ -29,7 +29,9 @@ My name is Priyam Seth. I am a full stack Developer.
 ---
 
 ### :fire: My Stats :
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Signior-X)](https://git.io/streak-stats)
+![Priyam's github stats](https://github-readme-stats.vercel.app/api?username=Signior-X)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Signior-X&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
