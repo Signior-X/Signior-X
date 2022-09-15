@@ -26,6 +26,19 @@ My name is Priyam Seth. I am a full stack Developer.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Signior-X)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Signior-X&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: Blog Posts :
+- [My GSoC Experience with Zulip as a student](https://gist.github.com/Signior-X/db8370e9b943ea3b26e16405e0d60015)
+
+
 
 
 <!--
