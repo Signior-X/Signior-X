@@ -46,6 +46,7 @@ My name is Priyam Seth. I am a full stack Developer.
 
 ### ⚡ My Projects
 - [IPL Auction Platform](https://devzes.github.io/ipl-auction-2020/)
+- [Pnotes web](https://pnotes.firebaseapp.com)
 
 
 <!--
